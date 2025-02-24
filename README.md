@@ -1,6 +1,6 @@
 ## Me
 
-**` 🧠 Neural network sommelier 🤖 | 🚀 FOSS fanatic 🐧 | 🔧 LeetCode enjoyer ⚡ `**
+**` 🧠 Neural network connoisseur 🤖 | 🚀 FOSS fanatic 🐧 | 🔧 LeetCode enjoyer ⚡ `**
 
 [Personal website](https://aljhn.github.io/)
 
