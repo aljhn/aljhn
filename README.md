@@ -1,6 +1,6 @@
-## Albert Johannessen
+## Me
 
-**` 🧠 Neural network sommelier | 🚀 FOSS fanatic | 🔧 Engineer `**
+**` 🧠 Neural network sommelier 🤖 | 🚀 FOSS fanatic 🐧 | 🔧 LeetCode enjoyer ⚡ `**
 
 [Personal website](https://aljhn.github.io/)
 
